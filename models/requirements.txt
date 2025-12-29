@@ -1,0 +1,15 @@
+# Data Manipulation & Math
+pandas==2.1.1
+numpy==1.26.0
+
+# Machine Learning
+scikit-learn==1.3.1
+joblib==1.3.2
+
+# Database & API
+pymongo==4.5.0
+requests==2.31.0
+python-dotenv==1.0.0
+
+# Optional: Time Series Forecasting (if using Prophet as per README)
+prophet==1.1.4
